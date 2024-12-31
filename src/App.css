@@ -1,0 +1,25 @@
+#online{
+  display: flex;
+  top: 5%;
+  margin: auto;
+  width: 50%; 
+  height: 30%;
+  justify-content: center;
+  align-items: center;
+  color: green;
+  background-color: lightgreen;
+  border-top: 4px solid green;
+}
+
+#offline{
+  display: flex;
+  top: 5%;
+  margin: auto;
+  width: 50%; 
+  height: 30%;
+  justify-content: center;
+  align-items: center;
+  color: tomato;
+  background-color: rgb(250, 195, 195);
+  border-top: 4px solid tomato;
+}
