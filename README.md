@@ -9,7 +9,6 @@ NetPulse is a front-end application that automatically checks the network status
 - User-friendly interface
 
 ## Installation
-
 To install and run the NetPulse application, follow these steps:
 
 1. Clone the repository:
